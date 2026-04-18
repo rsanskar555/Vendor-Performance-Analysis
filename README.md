@@ -252,6 +252,10 @@ Three CSV files are exported for Power BI consumption:
 - **Page 2 — Brand Performance**: Scatter plot, profit bar chart, conditional formatting
 - **Page 3 — Inventory Risk**: Low-turnover table, KPI cards, slicers
 
+![Dashboard](vendor.png)
+
+🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjEwNzA0YjgtYTg2Yi00OGY5LTg4MWEtZGUzZjMxYjFmYTFlIiwidCI6IjJmM2ViMmYzLTIwNjItNGRlOS04MmM5LTA3ZGIzZmFkMGJhNCJ9)**
+
 > ℹ️ Pre-aggregated data exports eliminate Power BI refresh latency and ensure consistent KPI definitions.
 
 ---
